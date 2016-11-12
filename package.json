@@ -1,0 +1,19 @@
+{
+    "name": "stg",
+    "version": "0.0.1",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "node cli"
+    },
+    "bin": {
+        "stg": "cli.js"
+    },
+    "author": "",
+    "license": "MIT",
+    "dependencies": {
+        "av": "^0.4.9",
+        "flac.js": "^0.2.1",
+        "fs-extra": "^1.0.0"
+    }
+}
